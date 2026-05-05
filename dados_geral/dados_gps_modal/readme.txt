@@ -1,0 +1,1 @@
+Dados agregados de GPS por modal.

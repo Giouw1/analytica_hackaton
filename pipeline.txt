@@ -1,0 +1,10 @@
+O pipeline dos dados é:
+Veículos: Obter todos os veículos em linha, compreender quais desses tem ar condicionado supostamente.
+Registro_Viagem: Fazer um histórico de quais viagens cada onibus em linha faz, para poder tratar como um histórico
+e poder associar um onibus a uma linha (ou mais)
+GFTS: Buscar entender por quais coordenadas o Onibus de uma dada linha vai passar. Verificar como isso vai ser feito
+Data_clima: Compreender quais coordenadas costumam ter ondas de calor/serem mais quentes.
+O objetivo final é:
+Apontar se há e a frequência de onibus sem ar condicionado passando por esses lugares considerados quentes,
+e o complementar, se há onibus passando com ar condicionado por lugares mais frios.
+Entender o que fazer por previsão ainda
