@@ -1,0 +1,2 @@
+Consideramos a distribuição de onibus e rotas como algo em equilíbrio, vale para todos os dias em todos os momentos.
+Não é assim na prática, mas simplificamos.

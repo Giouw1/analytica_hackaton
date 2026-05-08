@@ -1,2 +1,0 @@
-Agora, fazer um mapa veiculo->rota->ar condicionado.
-Medir o impacto disso ao analisar rota-shape_rota-mapa ilha de calor
